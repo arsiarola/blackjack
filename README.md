@@ -11,8 +11,10 @@ A player can leave the table at the start of a hand.
 Every move will be recorded to a log file that can be printed in the menu.
 
 Here is on example how a hand would be played:
+
 ![Example of a hand](https://github.com/arsiarola/blackjack/blob/master/img/blackjack.png)
 
 
 Logfile from the same hand:
+
 ![Example of a logfile](https://github.com/arsiarola/blackjack/blob/master/img/logfile.png)
