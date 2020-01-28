@@ -176,7 +176,7 @@ void print_a_card(int suit, int num) {
 // print empty card, (used for dealer's second card)
 void print_empty_card() {
     printf(CARD_FORMAT,
-            SUIT_PADDING, "",
+            SUIT_PADDING, " ",
             NUM_PADDING, ""
           );
 }

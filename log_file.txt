@@ -1,0 +1,23 @@
+Player count entered: 2
+first           registered for 100 chips
+second          registered for 100 chips
+____________________________________
+
+first           bet 50
+second          bet 50
+
+
+first           doubled down
+first           total: 15
+second          went over
+
+Dealer went over
+
+first           won 200
+second          lost 50
+____________________________________
+
+first           left the table
+second          left the table
+
+All players left the table
